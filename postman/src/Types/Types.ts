@@ -46,3 +46,12 @@ export type UsersCompany = {
 export type Message = {
   mainMessage: string
 }
+
+export type Mocks = {
+  postData: Post,
+  postsData: Post[],
+  usersData: User[],
+  commentsData: Comment[],
+  mainMessageItemData: Message,
+  mainMessageListData: Message
+}
