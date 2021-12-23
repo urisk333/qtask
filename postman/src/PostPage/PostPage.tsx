@@ -33,8 +33,8 @@ function PostPage ({ mainMessage }: IPropsPage) {
 
   return (
     <div className="posts-list-container">
+      {console.log(`${mainMessage}${nameComponent}`)}
       <div className="post-item">
-        {console.log(`${mainMessage}${nameComponent}`)}
         <div className="post-title">
           {post.title}
         </div>

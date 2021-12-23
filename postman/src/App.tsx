@@ -1,4 +1,3 @@
-import './App.css';
 import APIService from 'Services/APIServices';
 import Dashboard from 'Dashboard/Dashboard';
 import PostsList from 'PostsList/PostsList';

@@ -23,6 +23,7 @@ npm start
 ```
 cd qtask/postman
 npm test
+Press 'a' key on the keyboard to run all tests
 ```
 
 # Tech stack
