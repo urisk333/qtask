@@ -1,0 +1,19 @@
+{
+  "name": "qtask",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urisk333/qtask.git"
+  },
+  "author": "Ivan Car",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urisk333/qtask/issues"
+  },
+  "homepage": "https://github.com/urisk333/qtask#readme"
+}
