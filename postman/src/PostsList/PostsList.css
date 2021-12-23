@@ -1,0 +1,66 @@
+.posts-list-container {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.input {
+  height: 40px;
+  width: 60%;
+  padding-left: 8px;
+  border-radius: 8px 0 0 8px;
+  font-family: 'Oleo Script', cursive;
+  font-size: 14px;
+  border: none;
+  background-color: #84c1f8;
+}
+
+.search-button {
+  height: 40px;
+  width: 24%;
+  border-radius: 0 8px 8px 0;
+  background-color: #4c8ab9;
+  color: white;
+  font-family: 'Oleo Script', cursive;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.post-item {
+  margin-top: 16px;
+  padding-bottom: 1px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.post-title {
+  height: auto;
+  background-color: #4c8ab9;
+  border-radius: 10px 10px 0 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.post-body {
+  padding: 8px;
+}
+
+h3 {
+  font-weight: lighter;
+  margin-top: 24px;
+  background-color: #4c8ab9;
+}
+
+.comments-list {
+  margin-bottom: 8px;
+}
+
+.comment-item {
+  padding: 8px;
+  background-color: #84c1f8;
+  margin: 8px 8px 4px 8px;
+  border-radius: 8px;
+}

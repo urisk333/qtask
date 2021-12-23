@@ -1,0 +1,18 @@
+.post-user {
+  font-size: larger;
+  color: #4c8ab9;
+  padding-bottom: 8px;
+}
+
+.post-button {
+  height: 34px;
+  width: 100px;
+  margin-top: 8px;
+  border-radius: 20px;
+  background-color: #4c8ab9;
+  box-shadow: 2px 2px 4px rgba(33,33,33,.7);
+  color: white;
+  font-family: 'Oleo Script', cursive;
+  font-size: 14px;
+  letter-spacing: 1px;
+}

@@ -1,0 +1,18 @@
+.dashboard-container {
+  display: flex;  
+  justify-content: center;  
+}
+
+.dashboard-button {
+  height: 40px;
+  width: 140px;
+  padding: 10px;
+  margin-top: 80px;
+  border-radius: 20px;
+  background-color: #4c8ab9;
+  box-shadow: 2px 2px 4px rgba(33,33,33,.7);
+  color: white;
+  font-family: 'Oleo Script', cursive;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
